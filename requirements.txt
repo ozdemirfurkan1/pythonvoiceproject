@@ -1,0 +1,9 @@
+sounddevice
+scipy
+librosa
+numpy
+scikit-learn
+seaborn
+soundfile
+pandas
+matplobdib
